@@ -93,3 +93,47 @@
   📧 <a href="mailto:eng.ahmedomar311@gmail.com"><b>eng.ahmedomar311@gmail.com</b></a> &nbsp;|&nbsp;
   📍 <b>Cairo, Egypt</b>
 </p>
+<div align="center">
+
+  <!-- Header Typing Animation -->
+  <a href="https://github.com/Ahmedomar1112">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahmed+El-Sayed+Omar+%F0%9F%91%8B;Back-End+Developer+%7C+Python+%26+Django;AI+%26+RAG+Pipeline+Engineer;Building+Scalable+%26+Clean+Architectures" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>Transforming complex problems into scalable backend architectures & intelligent AI systems.</b>
+  </p>
+
+  <!-- Quick Social Badges -->
+  <p align="center">
+    <a href="https://linkedin.com/in/ahmedomar-dev">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://wa.me/201060318284">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <a href="mailto:eng.ahmedomar311@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <img src="https://komarev.com/ghpvc/?username=Ahmedomar1112&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS" alt="Profile Views" />
+  </p>
+
+</div>
+
+---
+
+### 🚀 About Me
+
+```yaml
+name: Ahmed El-Sayed Omar
+role: Back-End Developer & AI Integration Engineer
+education: B.Sc. in Computer Science — Benha University (2026)
+core_focus:
+  - Scalable RESTful API Design & Architecture
+  - Retrieval-Augmented Generation (RAG) & Vector Databases
+  - High-performance Database Modeling & Query Optimization
+passions:
+  - Clean Code & SOLID Principles
+  - Mentoring & Teaching Computational Thinking
+location: Cairo, Egypt 🇪🇬
+status: Open to Software Engineering & Backend Opportunities
