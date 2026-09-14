@@ -1,99 +1,4 @@
 <div align="center">
-  <h1 align="center">Hi there, I'm Ahmed El-Sayed Omar 👋</h1>
-  <p align="center">
-    <strong>Back-End Developer | Python & Django Specialist | AI & RAG Integrations</strong>
-  </p>
-
-  <p align="center">
-    <a href="https://linkedin.com/in/ahmedomar-dev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:eng.ahmedomar311@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/Ahmedomar1112"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  </p>
-</div>
-
----
-
-### 👨‍💻 About Me
-
-- 🎓 **Computer Science Graduate** from Faculty of Science, Benha University.
-- ⚙️ Specializing in **Python, Django REST Framework, and PostgreSQL** to build scalable, high-performance backends.
-- 🤖 Passionate about **Generative AI & RAG (Retrieval-Augmented Generation)**, semantic search, and document processing pipelines.
-- 👨‍🏫 Experienced **Programming & Robotics Instructor**, teaching web development fundamentals and computational thinking.
-- 🎯 Focus: Clean Architecture, ORM Optimization, Secure Authentication (JWT / OAuth2), and RESTful API Design.
-
----
-
-### 🛠️ Tech Stack & Skills
-
-<div align="center">
-
-#### 💻 Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-#### 🚀 Backend & Databases
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
-
-#### 🧠 AI, ML & Data Pipelines
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS_Vector_DB-005571?style=for-the-badge&logo=meta&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Sentence--Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![OCR](https://img.shields.io/badge/EasyOCR%20%7C%20PyMuPDF-2E8B57?style=for-the-badge)
-
-#### 🧰 Development Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-### 🌟 Featured Highlights & Projects
-
-- **⚖️ AI-Powered Legal Assistant (Graduation Project)**
-  - Built a comprehensive legal consultation platform using **Django 5.2 & DRF**.
-  - Designed an intelligent **RAG pipeline** with **Google Gemini API** & **FAISS Vector DB** for Egyptian legal statutes.
-  - Implemented Arabic semantic embeddings (`multilingual-e5-large`) and OCR pipelines (**EasyOCR & PyMuPDF**).
-  - Secured with **JWT** & **Google OAuth** with multi-turn conversation memory.
-
-- **💊 Pharmacy Management System**
-  - Full-stack web application powered by **Django** and **PostgreSQL**.
-  - Implemented relational data modeling and resolved $N+1$ query issues using `select_related` and `prefetch_related`.
-  - Built role-based access control, full inventory CRUD dashboard, and dynamic shopping cart with price calculations.
-
----
-
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmedomar1112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedomar1112&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedomar1112&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### 📬 Connect With Me
-
-<p align="center">
-  💼 <a href="https://linkedin.com/in/ahmedomar-dev"><b>LinkedIn Profile</b></a> &nbsp;|&nbsp;
-  📧 <a href="mailto:eng.ahmedomar311@gmail.com"><b>eng.ahmedomar311@gmail.com</b></a> &nbsp;|&nbsp;
-  📍 <b>Cairo, Egypt</b>
-</p>
-<div align="center">
 
   <!-- Header Typing Animation -->
   <a href="https://github.com/Ahmedomar1112">
@@ -137,3 +42,105 @@ passions:
   - Mentoring & Teaching Computational Thinking
 location: Cairo, Egypt 🇪🇬
 status: Open to Software Engineering & Backend Opportunities
+```
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<div align="center">
+
+<!-- Modern Skill Icons Grid -->
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=python,django,postgres,mysql,docker,linux,git,github,postman,js,html,css,cpp,java&perline=7&theme=dark" alt="Tech Stack Icons" />
+</a>
+
+<br/><br/>
+
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Backend & APIs** | `Python`, `Django`, `Django REST Framework (DRF)`, `RESTful APIs`, `JWT`, `OAuth 2.0`, `Gunicorn`, `WhiteNoise` |
+| **Databases & ORM** | `PostgreSQL`, `MySQL`, `SQL Server`, `Database Indexing`, `ORM Optimization (select_related / prefetch_related)` |
+| **AI & Document Processing** | `Google Gemini API`, `RAG Pipelines`, `FAISS (Vector DB)`, `Sentence-Transformers`, `EasyOCR`, `PyMuPDF` |
+| **DevOps & Tooling** | `Git`, `GitHub`, `Docker (Foundational)`, `Postman`, `Linux / Bash`, `OOP`, `Agile / Scrum` |
+
+</div>
+
+---
+
+### 💼 Featured Architecture & Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">⚖️ AI-Powered Legal Assistant</h3>
+      <p align="center"><b>Graduation Project • Back-End & AI Engineer</b></p>
+      <ul>
+        <li>Developed an end-to-end legal consultation backend with <b>Django 5.2</b> & <b>DRF</b>.</li>
+        <li>Implemented a production <b>RAG pipeline</b> using <b>Google Gemini API</b> & <b>FAISS</b> vector store.</li>
+        <li>Integrated multilingual Arabic semantic embeddings (<code>multilingual-e5-large</code>).</li>
+        <li>Built an OCR document intake pipeline using <b>PyMuPDF</b> & <b>EasyOCR</b> for automated classification.</li>
+        <li>Secured with <b>JWT (SimpleJWT)</b> & <b>Google OAuth</b> with contextual conversation memory.</li>
+      </ul>
+      <p align="center">
+        <code>Django</code> • <code>DRF</code> • <code>PostgreSQL</code> • <code>Gemini API</code> • <code>FAISS</code>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">💊 Pharmacy Management System</h3>
+      <p align="center"><b>Full-Stack Web Application • Lead Developer</b></p>
+      <ul>
+        <li>Architected a robust pharmacy management platform on top of <b>Django</b> and <b>PostgreSQL</b>.</li>
+        <li>Designed normalized relational data models for medicines, departments, and inventory.</li>
+        <li>Eliminated $N+1$ query performance issues using <code>select_related</code> and <code>prefetch_related</code>.</li>
+        <li>Built an automated shopping cart with dynamic tax, total price calculation, and order tracking.</li>
+        <li>Created a dedicated RBAC administration dashboard for complete inventory CRUD control.</li>
+      </ul>
+      <p align="center">
+        <code>Django</code> • <code>PostgreSQL</code> • <code>ORM Optimization</code> • <code>Bootstrap</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📈 GitHub Metrics & Analytics
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Ahmedomar1112&show_icons=true&theme=tokyonight&hide_border=true&title_color=38bdf8&icon_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Ahmed's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedomar1112&layout=compact&theme=tokyonight&hide_border=true&title_color=38bdf8&text_color=94a3b8&bg_color=0f172a" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahmedomar1112&theme=tokyonight&hide_border=true&stroke=38bdf8&background=0f172a&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8" alt="GitHub Streak" />
+</div>
+
+---
+
+### 📬 Let's Connect & Collaborate
+
+<div align="center">
+  
+  <a href="https://linkedin.com/in/ahmedomar-dev">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/201060318284">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:eng.ahmedomar311@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <br/><br/>
+  <p>⚡ <i>"First, solve the problem. Then, write the code."</i></p>
+
+</div>
