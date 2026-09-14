@@ -13,16 +13,12 @@
 
 ### 🚀 Overview
 
-I am a **Backend Software Engineer** dedicated to building resilient APIs, high-performance database architectures, and practical GenAI integrations. With a strong Computer Science foundation and a background in teaching computational thinking, I write clean, maintainable code designed to scale.
-
-- ⚙️ **Backend Architecture:** Designing robust RESTful services with **Python & Django REST Framework**, focusing on modularity, security (JWT / OAuth2), and high throughput.
-- 🧠 **AI & RAG Systems:** Engineering intelligent retrieval pipelines leveraging **Vector Databases (FAISS)**, semantic embeddings, and **LLMs (Google Gemini API)** to extract value from unstructured data.
-- 🗄️ **Data & Performance:** Crafting optimized **PostgreSQL** relational schemas, indexing strategies, and eliminating ORM bottlenecks (N+1 queries).
-- 🎓 **Background:** B.Sc. in Computer Science — Benha University (2026).
-- 👨‍🏫 **Mentorship:** Guided 50+ students in programming fundamentals, algorithm design, and software problem-solving.
-### 🛠️ Skills & Technologies
-
-<div align="center">
+- 🔭 **Current Focus:** Engineering high-availability REST APIs & production-grade Retrieval-Augmented Generation (RAG) pipelines.
+- 💡 **Core Expertise:** Python, Django, DRF, PostgreSQL, FAISS Vector Search, and LLM Integrations.
+- 📐 **Engineering Standard:** Clean code, SOLID design, ORM optimization, and zero-compromise API security.
+- 🎓 **Education:** B.Sc. in Computer Science — Benha University (2026).
+- 👨‍🏫 **Leadership:** Teaching Web Programming & Robotics, breaking down complex algorithmic concepts for students.
+- 🎯 **Looking for:** Software Engineering & Backend Developer roles where I can architect impactful systems.<div align="center">
 
 #### **Backend & Languages**
 <a href="https://skillicons.dev">
